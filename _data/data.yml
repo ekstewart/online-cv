@@ -31,9 +31,6 @@ sidebar:
       - idiom: Japanese
         level: Intermediate
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Kendo
         link:
@@ -47,19 +44,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Evan is an aspiring programmer currently attending MiraCosta College.
+      Seeking to gain experience in the computer-science field.
+      
 
 education:
     - degree: AA in Computer Science
       university: Miracosta College
       time: 2016-2019
       details: |
+      3.3 GPA
 
     - degree: AA in Math, Science and liberal arts
       university: MiraCosta College
@@ -78,6 +72,9 @@ experiences:
       company: MiraCosta STEM Center
       details: |
         Tutor students in introductory level java and C++ courses
+        
+          - Walk tutees through difficult concepts
+          - Help tutees to debug code
 
     - role: Grocery Clerk
       time: 2017- 2018
@@ -93,19 +90,19 @@ experiences:
       time: 2016- 2017
       company: Costco, Carlsbad
       details: |
-        
+        Handle member's tender at register
 
-          - Bullet point
-          - Bullet point
+          - Provide quality customer service
+          - Fast-paced work environment
 
 projects:
     title: Projects
     intro: >
 
     assignments:
-      - title:  #Velocity
-        link:   #"#hook"
-        tagline:    #"A responsive website template designed to help startups promote, market and sell their products."
+      - title:  MCCSoundboard
+        link:   
+        tagline: A compilation of sound bytes that are deserving of immortalization
 
 
 skills:
