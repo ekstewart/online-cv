@@ -59,6 +59,15 @@ education:
       time: 2016-2019
       details: |
 
+skills:
+    title: Primary Skills
+
+    toolset:
+      - name: Java
+
+      - name: Android App Development
+
+      - name: C++
 experiences:
 
     - role: President of Computer-Science Club
@@ -102,17 +111,6 @@ projects:
       - title:  MCCSoundboard
         link:   
         tagline: A compilation of sound bytes that are deserving of immortalization
-
-
-skills:
-    title: Primary Skills
-
-    toolset:
-      - name: Java
-
-      - name: Android App Development
-
-      - name: C++
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
