@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Evan Stewart
-    tagline: Computer-Science Student
+    tagline: Computer Science Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ekstewart987@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: 
+    linkedin: https://www.linkedin.com/in/evan-stewart-794031126/
     github: ekstewart
     gitlab:
     bitbucket:
@@ -46,6 +46,9 @@ career-profile:
     summary: |
       Evan is an aspiring programmer currently attending MiraCosta College.
       Seeking to gain experience in the computer-science field.
+
+      Evan is an aspiring computer scientist currently attending MiraCosta College
+      seeking to gain experience in software engineering
       
 
 education:
@@ -79,10 +82,12 @@ experiences:
       time: 2018 - Present
       company: MiraCosta STEM Center
       details: |
-        Tutor students in introductory level java and C++ courses
+        Tutor students in java and C++ courses
         
-          - Walk tutees through difficult concepts
-          - Help tutees to debug code
+          - Guide students through difficult concepts
+            with careful explanations and abstraction
+          - Assist in homework problems
+          - Help students build strong programming habits
 
     - role: Grocery Clerk
       time: 2017- 2018
@@ -90,17 +95,17 @@ experiences:
       details: |
         Stock shelves and train new team members
         
-
           - Work with sense of urgency
-          - Provide quality customer service
+          - Communicate effectively with teammates
+            to complete large tasks
 
     - role: Cashier
       time: 2016- 2017
       company: Costco, Carlsbad
       details: |
-        Handle member's tender at register
+        Manage register and prepare various food items
 
-          - Provide quality customer service
+          - Provide quality customer care
           - Fast-paced work environment
 
 projects:
@@ -108,9 +113,9 @@ projects:
     intro: >
 
     assignments:
-      - title:  MCCSoundboard
-        link:   
-        tagline: A compilation of sound bytes that are deserving of immortalization
+      - title:  MeetUp
+        link:   https://github.com/rkparel/Flask_Blog
+        tagline: Web application to help users find casual events and activities happening around them
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
