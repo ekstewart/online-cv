@@ -15,7 +15,7 @@ sidebar:
     email: ekstewart987@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: linkedin.com/in/evankstewart/
+    linkedin: evankstewart/
     github: ekstewart
     gitlab:
     bitbucket:
@@ -83,8 +83,15 @@ experiences:
       time: 2018 - 2019
       company: MiraCosta College
       details: |
+        Organize and run club
+
+          -Lead club vision(professional development and
+           community building)
+          -Schedule and lead weekly leadership meetings
+          -Coordinate weekly club meetings and activities
+          -Assign members in leadership various tasks to 
+           drive club ambition
        
-        
     - role: Computer-Science Tutor
       time: 2018 - Present
       company: MiraCosta STEM Center
@@ -118,7 +125,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
+    intro: 
 
     assignments:
       - title:  MeetUp
