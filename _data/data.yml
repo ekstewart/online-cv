@@ -15,7 +15,7 @@ sidebar:
     email: ekstewart987@gmail.com
     phone: 
     website:  #do not add http://
-    linkedin: https://www.linkedin.com/in/evankstewart/
+    linkedin: www.linkedin.com/in/evankstewart/
     github: ekstewart
     gitlab:
     bitbucket:
@@ -24,12 +24,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    languages: # High jacking language section to insert relevant coursework
+      - idiom: Intro to Data Structures and algorithms
+        level: 
 
       - idiom: Japanese
-        level: Intermediate
+        level: 
 
     interests:
       - item: Kendo
@@ -69,12 +69,15 @@ skills:
       - name: Android App Development
 
       - name: C++
+
+      - name: Git Version Control
 experiences:
 
     - role: President of Computer-Science Club
       time: 2018 - 2019
       company: MiraCosta College
       details: |
+       
         
     - role: Computer-Science Tutor
       time: 2018 - Present
@@ -95,7 +98,8 @@ experiences:
         
           - Work with sense of urgency
           - Communicate effectively with teammates
-            to complete large tasks
+            to complete large tasks with divide
+            and conquer methods
 
     - role: Cashier
       time: 2016- 2017
