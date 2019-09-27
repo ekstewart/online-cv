@@ -25,17 +25,29 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages: # High jacking language section to insert relevant coursework
-      - idiom: -Intro to Data Structures and algorithms
-        level: (in progress)
+            
+      - idiom: •Software Construction
+        level: In progress
+        
+      - idiom: •Logic Design
+        level: In progress
 
-      - idiom: -Assembly Language
-        level: (in progress)
-
-      - idiom: -Android App Development
-        level: (in progress)
-
-      - idiom: -Advanced Java Programming
+      - idiom: •Intro to Data Structures and algorithms
         level: 
+
+      - idiom: •Assembly Language
+        level: 
+
+      - idiom: •Android App Development
+        level: 
+
+      - idiom: •Intermediate Java Programming
+        level: 
+        
+      - idiom: •Intermediate C++ Programming
+        level: 
+
+        
 
     interests:
       - item: Kendo
@@ -50,12 +62,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Evan is an aspiring computer scientist currently attending MiraCosta College
-      seeking to gain experience in software engineering. Interested in mobile apps
+      Evan is an aspiring computer scientist currently attending UC Riverside
+      seeking to gain experience and knowledge in software engineering. Interested in mobile apps
       and building communities.
       
 
 education:
+    - degree: BS in Computer Science
+      university: University of California, Riverside
+      time: 2019-2021
+      details: |
+
     - degree: AA in Computer Science
       university: Miracosta College
       time: 2016-2019
@@ -93,7 +110,7 @@ experiences:
           drive club ambition
        
     - role: Computer-Science Tutor
-      time: 2018 - Present
+      time: 2018 - 2019
       company: MiraCosta STEM Center
       details: |
         Tutor students in java and C++ courses
