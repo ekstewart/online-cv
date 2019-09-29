@@ -72,8 +72,13 @@ education:
       university: University of California, Riverside GPA TBD
       time: 2019-2021
       details: |
+
+    - degree: AA in Computer Science
+      university: 
+      time: 
+      details: |
       
-    - degree: AA in Computer Science\nAA in Math, Science, and liberal arts
+    - degree: AA in Math, Science, and liberal arts
       university: Miracosta College GPA 3.3
       time: 2016-2019
       details: |
@@ -82,13 +87,13 @@ skills:
     title: Primary Skills
 
     toolset:
-      - name: Java\t•Android App Development
+      - name: Java
 
-      - name: 
+      - name: Android App Development
 
-      - name: C++\t•Git Version Control
+      - name: C++
 
-      - name: 
+      - name: Git Version Control
 experiences:
 
     - role: President of Computer-Science Club
